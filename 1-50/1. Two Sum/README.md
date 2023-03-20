@@ -30,4 +30,5 @@ You can return the answer in any order.
 - `-109 <= target <= 109`
 - **Only one valid answer exists.**
 
-# [Solution and Explanation](./Java.md)
+# Solution and Explanation
+- [Java](./Java.md)
