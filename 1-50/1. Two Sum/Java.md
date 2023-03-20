@@ -1,4 +1,9 @@
+## Explanation
+- Use HashMap for storing element and it's index.
+- Then find for target - element value if you found match that means the sum of two numbers is equal to target. 
+- Then return the index of both values in an array.
 
+## Solution 
 ```
 class Solution {
     public int[] twoSum(int[] nums, int target) {
