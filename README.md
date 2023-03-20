@@ -1,2 +1,2 @@
 - [1. Two Sum](./1-50/1.TwoSum/README.md)
-- [2. 2. Add Two Numbers](./1-50/2.AddTwoNumbers/README.md)
+- [2. Add Two Numbers](./1-50/2.AddTwoNumbers/README.md)
