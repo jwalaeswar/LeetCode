@@ -1,2 +1,3 @@
 - [1. Two Sum](./1-50/1.%20Two%20Sum/README.md)
 - [2. Add Two Numbers](./1-50/2.%20Add%20Two%20Numbers/README.md)
+- [9. Palindrome Number](./1-50/9.%20Palindrome%20Number/README.md)
