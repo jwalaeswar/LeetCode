@@ -1,3 +1,7 @@
+## Recursive Method:
+- Add the first nodes and then create the new node with the remaining sum and update the new carry number.
+- Now the next node would be the Linked list node of sum of both l1.next and l2.next and also new carry number.
+
 ```
 /**
  * Definition for singly-linked list.
