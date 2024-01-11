@@ -31,8 +31,8 @@ You can return the answer in any order.
 - **Only one valid answer exists.**
 
 # Solution and Explanation 
-- [Java](./TwoSum.java) 
-- [Test](/Problems/Tester/TwoSumTest.java)
+- [Java](./Solution.java) 
+- [Test](./Tester.java)
 ## Explanation (Using HashMap)
 - Use HashMap for storing element and it's index.
 - Then find for target - element value if you found match that means the sum of two numbers is equal to target. 
