@@ -1,9 +1,6 @@
-## Solution
-- First revers the Integer using recusrsive method.
-- Now check whether both the intergers are same or not, hence palindrome.
+package Problems.PalindromeNumber;
 
-```
-class Solution {
+public class Solution {
     public boolean isPalindrome(int x) {
         if(x < 0) return false;
         if(x%10 == 0 && x != 0) return false;
@@ -20,4 +17,3 @@ class Solution {
         return ret;
     }
 }
-```

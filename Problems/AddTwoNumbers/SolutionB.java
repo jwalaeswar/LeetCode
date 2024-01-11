@@ -1,17 +1,10 @@
 package Problems.AddTwoNumbers;
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-}
 public class SolutionB {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         return addUtil(l1, l2, 0);
     }
 
-    public ListNode addUtil(ListNode a, ListNode b, int carry){
+    public static ListNode addUtil(ListNode a, ListNode b, int carry){
         int sum = a.val + b.val + carry;
         int newCarry = sum / 10;
         ListNode temp = new ListNode(sum%10);
