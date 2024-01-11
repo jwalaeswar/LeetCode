@@ -30,7 +30,9 @@ You can return the answer in any order.
 - `-109 <= target <= 109`
 - **Only one valid answer exists.**
 
-# Solution and Explanation
+# Solution and Explanation 
+- [Java](./TwoSum.java) 
+- [Test](/Problems/Tester/TwoSumTest.java)
 ## Explanation (Using HashMap)
 - Use HashMap for storing element and it's index.
 - Then find for target - element value if you found match that means the sum of two numbers is equal to target. 
