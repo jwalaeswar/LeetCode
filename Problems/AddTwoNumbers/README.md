@@ -30,4 +30,4 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 - It is guaranteed that the list represents a number that does not have leading zeros.
 
 # Solution and Explanation
-- ### [Java](./Java.md)
+- ### [Java](./AddTwoNumbers.java)

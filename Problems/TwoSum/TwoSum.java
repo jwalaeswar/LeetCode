@@ -1,3 +1,4 @@
+package Problems.TwoSum;
 import java.util.*;
 
 class TwoSum {
