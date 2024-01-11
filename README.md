@@ -1,3 +1,3 @@
 - [1. Two Sum](./Problems/TwoSum/README.md)
 - [2. Add Two Numbers](./Problems/AddTwoNumbers/README.md)
-- [9. Palindrome Number](./Problems/9.%20Palindrome%20Number/README.md)
+- [9. Palindrome Number](./Problems/PalindromeNumber/README.md)
