@@ -1,5 +1,4 @@
 package Problems.AddTwoNumbers;
-import java.util.*;
 
 class ListNode {
     int val;
